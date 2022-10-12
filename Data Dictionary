@@ -1,0 +1,20 @@
+Data Dictionary for MI2-2 Variables
+Spotify data
+
+track_name is the name of each song
+track id is the numeric id of each song
+track_artist refers to the artist of the song
+track_popularity is a numeric rating of 1-100 that measures how popular the song is, a higher number indicating a higher popularity
+track_album_id is a unique characters that reference the album that each song is part of if any
+track_album_name is the name of the related album if any
+Track_album_release_date is the day of release for the song and album
+Duration is the length of time each song runs for in milliseconds
+Tempo is the beats per minute of each song on average
+Valence is a numerical measure from 0 to 1, that rates the musical positiveness of each song, or how happy it is overall
+Liveness refers to a possible present audience during the performance of a track, so the higher it rates on liveness on a score of 0 to 1, the more likely it was performed live
+Instrumentalness predicts if a song contains vocals on a score of 0 to 1, with a high score indicating that there are no vocals
+Danceability is the suitability of the track for dancing based on music elements such as tempo and rhythm
+Energy is a measure of the song’s energy and intensity, such as noise level and speed
+Key is the overall pitch of the song, and each key is matched to a numeric integer
+Loudness is measured in overall decibels for each song. Mode references if each track is in the major or minor key, where major is indicated by a 1, and minor is indicated by a 0
+Speechiness detects the presence of spoken words in each song on a scale of 0 to 1, with more speech closer to a score of 1. 
