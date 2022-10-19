@@ -76,9 +76,3 @@ This is the final data set the team used for our analysis. To get this data set,
 [2] Ashrith, “What Makes a Song Likable,” Towards Data Science, Dec. 3, 2018. https://towardsdatascience.com/what-makes-a-song-likeable-dbfdb7abe404
 
 [3].“Web API Reference: Spotify for Developers.” Home, https://developer.spotify.com/documentation/web-api/reference/#/operations/get-recommendations. 
-
-
-### OTHER LINKS
-
-- Access our MI1 assignment from [here](https://collab.its.virginia.edu/access/content/attachment/856376d0-e4da-47eb-9375-a797b1752c6f/Assignments/9e9b7b2b-222c-49b7-9cdf-ab961fabc74c/M1-2%20Establish%20Data%20to%20Analysis%20Plan%20_1_.pdf) 👋
-- Access our MI2 assignment from [here](https://collab.its.virginia.edu/access/content/attachment/856376d0-e4da-47eb-9375-a797b1752c6f/Assignments/3cec6e30-17b0-4b8b-9e66-2a74e88cf55b/M2-2%20Group%206.pdf) 🤝
