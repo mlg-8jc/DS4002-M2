@@ -91,6 +91,10 @@ From “The Relationship Between Rank and Valence,” we found that there is a w
 ![](./figures/Graph_Valence_and_Popularity.png)
 From the graph above, we found that there is a slight correlation betweeen valence and popularity. The trend line has a slighty negative slope, which signifies that there is a slight negative correlation between the valence and the popularity of the song, meaning that a song is more likely to be popular if the valence is lower. Another aspect of the graph above is the coloring of each data point, which correlates to the danceability. For the most part, it seems that the higher valence songs are more danceable, but there is no correlation that can be seen between danceablity and popularity.
 
+### **Heat Map**
+![](./figures/Heatmap.png)
+According to the heat map shown above, by using a random sample, it is found that our selected songs normally have a high energy score. From the highest to the lowest: energy>danceability>valence> acoustic>liveness. 
+
 
 ---
 
