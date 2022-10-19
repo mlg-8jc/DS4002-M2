@@ -43,16 +43,11 @@ One would want to use our code to replicate and verify our results, or to possib
 
 ---
 ## DATA[![](./images/pin.svg)](#data)
+For full data, please click [here]()
+
 For the data dictionary, please click [here](./data/Data_Dictionary)
 
 The first six rows of our data set are shown below...
-![alt text](./images/dataset1.png)
-
-![alt text](./images/dataset2.png)
-
-![alt text](./images/dataset3.png)
-
-This is the final data set the team used for our analysis. To get this data set, the team first subset the top 100 songs by accessing the Spotify API. Then, the team filtered columns by calling `get_track_audio_features`. Lastly, the team added name to each row in the data set. 
 
 
 
@@ -61,10 +56,22 @@ This is the final data set the team used for our analysis. To get this data set,
 ## FIGURES![](./images/pin.svg)
 
 ### **Figures Table**
+* Bar Graphs
+* Scatterplots
 * 
-* 
-* 
-* 
+* R-Squared Value and Significance Tests
+
+### **Bar Graph 1: Top 100 Songs - Danceability**
+![](./images/top 100 danceabliity.png)
+
+### **Bar Graph 2: Top 100 Songs - Valence**
+![](./images/top 100 valence.png)
+
+### **Scatterplot 1: The relationship between Rank and Danceability**
+![](./images/rank and danceabliity.png)
+
+### **Scatterplot 2: The releationship between Rank and Valence**
+![](./images/rank and valence.png)
 
 
 ---
@@ -74,5 +81,10 @@ This is the final data set the team used for our analysis. To get this data set,
 [1]S. Middler, “Is There a Formula to Making a Popular Song?,” Information Expositions F2019, Sep. 16, 2019. https://medium.com/information-expositions-f2019/is-there-a-formula-to-making-a-popular-song-c503530cd729 (accessed Oct. 05, 2022).
 ‌
 [2] Ashrith, “What Makes a Song Likable,” Towards Data Science, Dec. 3, 2018. https://towardsdatascience.com/what-makes-a-song-likeable-dbfdb7abe404
-
 [3].“Web API Reference: Spotify for Developers.” Home, https://developer.spotify.com/documentation/web-api/reference/#/operations/get-recommendations. 
+
+
+### OTHER LINKS
+
+- Access our MI1 assignment from [here](https://collab.its.virginia.edu/access/content/attachment/856376d0-e4da-47eb-9375-a797b1752c6f/Assignments/9e9b7b2b-222c-49b7-9cdf-ab961fabc74c/M1-2%20Establish%20Data%20to%20Analysis%20Plan%20_1_.pdf) 👋
+- Access our MI2 assignment from [here](https://collab.its.virginia.edu/access/content/attachment/856376d0-e4da-47eb-9375-a797b1752c6f/Assignments/3cec6e30-17b0-4b8b-9e66-2a74e88cf55b/M2-2%20Group%206.pdf) 🤝
