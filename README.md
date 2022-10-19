@@ -49,7 +49,13 @@ For the data dictionary, please click [here](./data/Data_Dictionary)
 
 The first six rows of our data set are shown below...
 
+![alt text](./images/dataset1.png)
 
+![alt text](./images/dataset2.png)
+
+![alt text](./images/dataset3.png)
+
+This is the final data set the team used for our analysis. To get this data set, the team first subset the top 100 songs by accessing the Spotify API. Then, the team filtered columns by calling `get_track_audio_features`. Lastly, the team added name to each row in the data set. 
 
 ---
 
