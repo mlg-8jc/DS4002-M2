@@ -57,12 +57,31 @@ The first six rows of our data set are shown below...
 
 ### **Figures Table**
 * Valence and Popularity
+* Bar Graph 1: Top 100 Songs - Danceability
+* Bar Graph 2: Top 100 Songs - Valence
+* Scatterplot 1: The relationship between Rank and Danceability
+* Scatterplot 2: The releationship between Rank and Valence
 
 
 ### **Valence and Popularity**
 ![](./figures/Graph_Valence_and_Popularity.png)
 
 
+### **Bar Graph 1: Top 100 Songs - Danceability**
+![](./figures/top100danceability.png)
+From the bar graph above, we found that most of the top 100 songs have a danceability score of at least 0.4, with many more that are much higher around the 0.5 to 0.8 range, which solidifies our desire to investigate further, as this graph indicates that a higher danceability score may be correlated with popularity ratings on Spotify. 
+
+### **Bar Graph 2: Top 100 Songs - Valence**
+![](./figures/top100valence.png)
+From the bar graph above, it is hard to tell whether or not most of the top 100 songs have a valence score higher than 0.5. Therefore, we may need to look for more information about it. For example, we may have to conduct a statistical correlation test to prove our hypothesis.
+
+### **Scatterplot 1: The relationship between Rank and Danceability**
+![](./figures/rankanddanceability.png)
+From “The Relationship Between Rank and Danceability,” we found that there is a weak correlation between rank and danceability. A downward sloping line illustrated above is expected because a low rank indicates high popularity of a song. Also, we believed that a part of our hypothesis would not be rejected because the line above is clearly above 0.50.
+
+### **Scatterplot 2: The releationship between Rank and Valence**
+![](./figures/rankandvalence.png)
+From “The Relationship Between Rank and Valence,” we found that there is a weak or almost no correlation between rank and valence. This is a really interesting fact. Additionally, many plots are scattered close to 0.50.
 
 ---
 
