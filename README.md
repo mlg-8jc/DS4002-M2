@@ -34,6 +34,7 @@ In “What Makes a Song Likable”, Ashrith analyzed what factors contribute to 
 First, one must make sure that R and RStudio are installed on their system. Then, you can download the script from our src folder, along with the dataset in the data folder. Make sure that the files are saved into the same directory and change the working directory to where the files are located. 
 
 ### Spotity API in R
+In order to utilize the Spotify API in R, one must install the spotifyr package by running "install.packages('spotifyr)". Then, the spotifyr package needs to be called in the beginning of the R file by running "library(spotifyr)". 
 
 ### Usage of Code
 
