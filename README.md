@@ -43,6 +43,7 @@ One would want to use our code to replicate and verify our results, or to possib
 
 ---
 ## DATA[![](./images/pin.svg)](#data)
+For full data, please click [here]()
 
 For the data dictionary, please click [here](./data/Data_Dictionary)
 
@@ -55,15 +56,13 @@ The first six rows of our data set are shown below...
 ## FIGURES![](./images/pin.svg)
 
 ### **Figures Table**
-* Valence and Popularity
 * Bar Graph 1: Top 100 Songs - Danceability
 * Bar Graph 2: Top 100 Songs - Valence
 * Scatterplot 1: The relationship between Rank and Danceability
 * Scatterplot 2: The releationship between Rank and Valence
+* Valence and Popularity
 
 
-### **Valence and Popularity**
-![](./figures/Graph_Valence_and_Popularity.png)
 
 
 ### **Bar Graph 1: Top 100 Songs - Danceability**
@@ -81,6 +80,11 @@ From “The Relationship Between Rank and Danceability,” we found that there i
 ### **Scatterplot 2: The releationship between Rank and Valence**
 ![](./figures/rankandvalence.png)
 From “The Relationship Between Rank and Valence,” we found that there is a weak or almost no correlation between rank and valence. This is a really interesting fact. Additionally, many plots are scattered close to 0.50.
+
+### **Valence and Popularity**
+![](./figures/Graph_Valence_and_Popularity.png)
+From the graph above, we found that there is a slight correlation betweeen valence and popularity. The trend line has a slighty negative slope, which signifies that there is a slight negative correlation between the valence and the popularity of the song. Another aspect of the graph above is the coloring of each data point, which correlates to the danceability. For the most part, it seems that the higher valence songs are more danceable, but there is no correlation that can be seen between danceablity and popularity.
+
 
 ---
 
