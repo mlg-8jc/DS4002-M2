@@ -62,16 +62,16 @@ The first six rows of our data set are shown below...
 * R-Squared Value and Significance Tests
 
 ### **Bar Graph 1: Top 100 Songs - Danceability**
-![]("./images/top 100 danceabliity.png")
+![](./images/top 100 danceabliity.png)
 
 ### **Bar Graph 2: Top 100 Songs - Valence**
-![]("./images/top 100 valence.png")
+![](./images/top 100 valence.png)
 
 ### **Scatterplot 1: The relationship between Rank and Danceability**
-![]("./images/rank and danceabliity.png")
+![](./images/rank and danceabliity.png)
 
 ### **Scatterplot 2: The releationship between Rank and Valence**
-![]("./images/rank and valence.png")
+![](./images/rankandvalence.png)
 
 
 ---
