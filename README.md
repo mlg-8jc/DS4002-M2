@@ -43,7 +43,6 @@ One would want to use our code to replicate and verify our results, or to possib
 
 ---
 ## DATA[![](./images/pin.svg)](#data)
-For full data, please click [here]()
 
 For the data dictionary, please click [here](./data/Data_Dictionary)
 
