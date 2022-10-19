@@ -56,22 +56,12 @@ The first six rows of our data set are shown below...
 ## FIGURES![](./images/pin.svg)
 
 ### **Figures Table**
-* Bar Graphs
-* Scatterplots
-* 
-* R-Squared Value and Significance Tests
+* Valence and Popularity
 
-### **Bar Graph 1: Top 100 Songs - Danceability**
-![](./images/top100danceability.png)
 
-### **Bar Graph 2: Top 100 Songs - Valence**
-![](./images/top100valence.png)
+### **Valence and Popularity**
+![](./figures/Graph_Valence_and_Popularity.png)
 
-### **Scatterplot 1: The relationship between Rank and Danceability**
-![](./images/rankanddanceability.png)
-
-### **Scatterplot 2: The releationship between Rank and Valence**
-![](./images/rankandvalence.png)
 
 
 ---
